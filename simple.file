@@ -4,8 +4,12 @@ Adding some text from the other folder
 
 One more line 
 
+<<<<<<< HEAD
 changing the master
 
 branch edit of the file 1
 
 change change on branch
+=======
+adn some changes to file 1
+>>>>>>> 366609c7df5b0da7f8f7b6ff6c9ba962a7d7480a
